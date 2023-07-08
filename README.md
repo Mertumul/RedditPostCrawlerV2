@@ -17,8 +17,8 @@ It is a project that allows for real-time monitoring of posts from a specific su
 To run the Flask Reddit Dashboard locally, follow these steps:
 
 ```bash
-1-Clone the repository:git clone [https://github.com/Mertumul/RedditPostCrawler.git
-](https://github.com/Mertumul/RedditPostCrawlerV2.git)
+1-Clone the repository:git clone https://github.com/Mertumul/RedditPostCrawler.git
+
 
 2-Install the required dependencies: pip install -r requirements.txt
 
@@ -37,7 +37,7 @@ This video demonstrates the step-by-step installation process of the application
 If you need further assistance or have any other questions, please let me know.
 
 ```bash
-Video: [https://drive.google.com/file/d/189WbF-SvwGg9G1ho08IWs4TwUBMOOaum/view?usp=sharing](https://drive.google.com/file/d/15LZt6UiRolWO3ibE-4sxtY-6EMaXIR-U/view)
+Video: https://drive.google.com/file/d/189WbF-SvwGg9G1ho08IWs4TwUBMOOaum/view?usp=sharing
 ```
 
 Go to `http://127.0.0.1:5000`
