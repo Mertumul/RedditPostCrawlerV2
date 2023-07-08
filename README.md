@@ -37,7 +37,7 @@ This video demonstrates the step-by-step installation process of the application
 If you need further assistance or have any other questions, please let me know.
 
 ```bash
-Video: https://drive.google.com/file/d/15LZt6UiRolWO3ibE-4sxtY-6EMaXIR-U/view?usp=sharing
+Video:
 ```
 
 
