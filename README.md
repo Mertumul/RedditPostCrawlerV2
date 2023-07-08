@@ -37,7 +37,8 @@ This video demonstrates the step-by-step installation process of the application
 If you need further assistance or have any other questions, please let me know.
 
 ```bash
-Video: https://drive.google.com/file/d/189WbF-SvwGg9G1ho08IWs4TwUBMOOaum/view?usp=sharing
+Video: https://drive.google.com/file/d/15LZt6UiRolWO3ibE-4sxtY-6EMaXIR-U/view?usp=sharing
 ```
+
 
 Go to `http://127.0.0.1:5000`
